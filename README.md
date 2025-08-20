@@ -15,4 +15,4 @@
 - **Volatility** – used for memory analysis to detect malware and suspicious processes  
 - **FTK Imager** – used it for disk imaging and evidence preservation  
 - **Python & Web Scraping** – used for supporting data analysis and reporting  
-- **BeEF (Browser Exploitation Framework)** – exploerd browser-based security vulnerabilities  
+- **BeEF** – exploerd browser-based security vulnerabilities  
